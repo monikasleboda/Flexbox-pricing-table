@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/monikasleboda/Flexbox-pricing-table"><img src="images/screenshot.png" alt="screenshot" height="300"></a>
+<a href="https://github.com/monikasleboda/Flexbox-pricing-table"><img src="images/screenshot.png" alt="screenshot"></a>
 </p>
 
 <h1 align="center">Flexbox pricing table</h1>
